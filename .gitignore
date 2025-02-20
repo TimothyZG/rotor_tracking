@@ -171,3 +171,6 @@ cython_debug/
 .pypirc
 
 video_sample
+processed_video_sample
+result
+.DS_Store
